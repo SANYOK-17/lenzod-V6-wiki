@@ -1,0 +1,11 @@
+P0-? (maybe firmware version, idk)
+P1-speed unit (kmh/mph)
+P2-cruise control (on/off)
+P3-start with kick (on/off)
+P4-wheel diameter (information on app)
+P5-voltage (information on app)
+P6-factory reset
+P7-bluetooth (off/on)
+P8-gas test
+P9-brake test
+(to enter P-settings press button 8 times quickly)
